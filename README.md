@@ -1,2 +1,2 @@
 # cuda_programming
-some codes from the Parallel Computing course
+Some codes from the Parallel Computing course. Every advice will be welcome.
